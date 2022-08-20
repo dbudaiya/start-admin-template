@@ -7,7 +7,7 @@
 	"scripts": {
 		"dev": "vite --force",
 		"build": "vite build",
-		"lint-fix": "eslint --fix --ext .js --ext .jsx --ext .vue src/"
+		"lint:fix": "eslint --fix --ext .js --ext .jsx --ext .vue src/"
 	},
 	"dependencies": {
 		"@element-plus/icons-vue": "^2.0.6",
