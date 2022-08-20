@@ -1,8 +1,8 @@
 {
-	"name": "vue-next-admin",
+	"name": "start-admin-template",
 	"version": "2.2.0",
 	"description": "vue3 vite next admin template",
-	"author": "lyt_20201208",
+	"author": "dushenyan",
 	"license": "MIT",
 	"scripts": {
 		"dev": "vite --force",
@@ -58,24 +58,18 @@
 		"last 2 versions",
 		"not dead"
 	],
-	"bugs": {
-		"url": "https://gitee.com/lyt-top/vue-next-admin/issues"
-	},
 	"engines": {
 		"node": ">=12.0.0",
 		"npm": ">= 6.0.0"
 	},
 	"keywords": [
-		"vue",
 		"vue3",
 		"vuejs/vue-next",
-		"element-ui",
 		"element-plus",
-		"vue-next-admin",
-		"next-admin"
+		"admin-temolatp"
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://gitee.com/lyt-top/vue-next-admin.git"
+		"url": "https://github.com/dbudaiya/start-admin-template"
 	}
 }
